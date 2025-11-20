@@ -3,10 +3,10 @@
 This project explores the application of Machine Learning (ML) and Deep Learning (DL) techniques to perform sentiment analysis on movie reviews. The goal is to automatically classify the sentiment of written movie reviews as positive or negative, which can help in understanding audience preferences and improve film marketing strategies.
 
 ## Team Members
-- [Jerry Yang](https://github.com/mcxraider)
-- [Ngu JiaHao](https://github.com/yjiahao)
-- [Roydon Tay](https://github.com/RoydonTay)
-- Felise Leow 
+- Jerry Yang
+- Chong Chua Song
+- Elias Bier
+- Mason Boyles
 
 ## Project Overview
 We evaluated various ML and DL models using Python libraries like Scikit-Learn and PyTorch on a dataset of movie reviews. 
@@ -18,7 +18,7 @@ The techniques include:
 
 The dataset comprises user-generated movie reviews collected from various online platforms. Reviews were preprocessed to remove noise and formatted using techniques such as tokenization, lemmatization, and removal of stopwords. Experiements were conducted for 8-class, 3-class and 2-class classification for ML methods, and 8-class and 2-class for DL, with 2-class yielding highest accuracies in both cases.
 
-Details and discussions about methods used, results and related studies can be found in our [project report](https://github.com/mcxraider/Sentiment-Analysis-with-BERT/blob/main/Project_Report.pdf).
+Details and discussions about methods used, results and related studies can be found in our project report.
 
 ## Exploratory Data Analysis
 We performed n-gram analysis to identify common phrases in positive and negative reviews. Visualisation plots such as boxplots, countplots and word clouds were used to understand class distribution, conduct feature analysis, and handle outliers in the data.
